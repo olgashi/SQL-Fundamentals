@@ -1,0 +1,16 @@
+-- DDL
+-- CREATE
+-- DROP
+-- ALTER
+
+
+-- DML
+-- SELECT
+-- UPDATE
+-- DELETE
+-- INSERT
+
+
+-- DCL
+-- GRANT
+-- REVOKE
